@@ -1,0 +1,14 @@
+{
+  "name": "poo_exercicio_extra",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "q1_cronometro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15"
+  }
+}
